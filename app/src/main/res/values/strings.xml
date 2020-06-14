@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hearthstone Buddy</string>
+    <string name="title_home">Search Cards</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Favorite Cards</string>
+    <string name="error_fetch_cards">Please check your internet connection</string>
+    <string name="all_cards">All Cards</string>
+    <string name="info_all_cards">Based on mana selection</string>
+    <string name="show_mana_cost_text">Select Mana Cost</string>
+</resources>
